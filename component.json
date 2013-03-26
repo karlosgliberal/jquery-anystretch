@@ -1,0 +1,13 @@
+{
+  "name": "jquery-anystretch",
+  "repo": "karlosgliberal/jquery-anystretch",
+  "description": "Anystretch is a jQuery plugin that allows you to add a
+  dynamically-resized background image",
+  "version": "0.0.1",
+  "dependencies": {
+    "component/jquery": "*"
+  },
+  "scripts": [
+    "jquery.anystretch.js"
+  ]
+}
